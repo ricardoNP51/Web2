@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Lamborghini Aventador",
+    "image": "/../src/assets/lamborghini.jpg",
+        "destacado": true
+
+  },
+  {
+    "id": 2,
+    "name": "Ferrari SF90 Stradale",
+    "image": "/../src/assets/ferrari.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Porsche 911 Turbo S",
+    "image": "/../src/assets/porsche.jpg" , 
+        "destacado": true
+
+  },
+  {
+    "id": 4,
+    "name": "Bugatti Chiron",
+    "image": "/../src/assets/bugatti.jpg"
+  }
+]
